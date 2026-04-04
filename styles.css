@@ -36,16 +36,22 @@ a:hover{text-decoration:underline}
 .brand{font-weight:900;letter-spacing:.02em}
 .toplinks{display:flex;gap:14px;flex-wrap:wrap}
 .toplinks a{color:var(--muted)}
-.hero{max-width:var(--maxw);margin:0 auto;padding:42px 22px 18px}
+.hero{max-width:var(--maxw);margin:0 auto;padding:10px 22px 4px}
 .hero-card,.panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);backdrop-filter: blur(14px)}
-.hero-card{padding:34px}
+.hero-card{padding:18px}
 .hero-grid{display:grid;grid-template-columns:1.35fr .95fr;gap:22px}
+.compact-hero{padding-top:8px;padding-bottom:4px}
+.hero-menu{display:flex;flex-direction:column;gap:10px}
+.hero-menu-main{display:flex;align-items:end;justify-content:space-between;gap:14px;flex-wrap:wrap}
+.hero-menu-actions{margin-top:0}
+.hero-menu-meta{display:flex;gap:8px;flex-wrap:wrap}
 .kicker{display:inline-flex;gap:10px;align-items:center;padding:10px 14px;border-radius:999px;background:rgba(245,196,81,.12);border:1px solid rgba(245,196,81,.22);color:#ffe39f;font-size:.92rem}
-h1{margin:14px 0 12px;font-size:clamp(2.4rem,4vw,4.6rem);line-height:1.02;letter-spacing:-.03em}
-.lead{color:var(--muted);font-size:1.08rem;line-height:1.75;max-width:72ch}
-.pills,.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:22px}
+h1{margin:12px 0 8px;font-size:clamp(2rem,3vw,3rem);line-height:1.02;letter-spacing:-.03em}
+.lead{color:var(--muted);font-size:1.02rem;line-height:1.65;max-width:72ch}
+.compact-lead{margin:0;max-width:64ch}
+.pills,.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}
 .pill{display:inline-flex;align-items:center;padding:8px 12px;border-radius:999px;background:rgba(103,232,249,.08);border:1px solid rgba(103,232,249,.16);color:#d6fbff;font-size:.92rem}
-.button{display:inline-flex;align-items:center;justify-content:center;padding:12px 18px;border-radius:999px;background:rgba(255,255,255,.04);border:1px solid var(--line);color:var(--text);font-weight:700}
+.button{display:inline-flex;align-items:center;justify-content:center;padding:10px 16px;border-radius:999px;background:rgba(255,255,255,.04);border:1px solid var(--line);color:var(--text);font-weight:700}
 .button.primary{background:linear-gradient(135deg,#f5c451,#e7aa30);color:#241600;border-color:rgba(255,215,122,.5)}
 .stat-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
 .stat{padding:18px;border-radius:18px;background:rgba(255,255,255,.03);border:1px solid var(--line)}
