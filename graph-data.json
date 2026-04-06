@@ -1,9 +1,9 @@
 {
-  "node_count": 98,
-  "edge_count": 835,
+  "node_count": 99,
+  "edge_count": 862,
   "categories": {
     "00 System": 7,
-    "10 Catalogues": 5,
+    "10 Catalogues": 6,
     "20 Core Concepts": 7,
     "30 Methods": 19,
     "40 Policy Process": 11,
@@ -46,8 +46,8 @@
       "color": "#94a3b8",
       "source": "00 System/Master bibliography.md",
       "url": "pages/master-bibliography.html",
-      "value": 24,
-      "degree": 6
+      "value": 26,
+      "degree": 7
     },
     {
       "id": "Next steps after contract reread",
@@ -68,8 +68,8 @@
       "color": "#94a3b8",
       "source": "00 System/Source ingestion index.md",
       "url": "pages/source-ingestion-index.html",
-      "value": 70,
-      "degree": 29
+      "value": 72,
+      "degree": 30
     },
     {
       "id": "Wiki audit memo",
@@ -94,6 +94,17 @@
       "degree": 1
     },
     {
+      "id": "Best examples by use case",
+      "label": "Best examples by use case",
+      "title": "<b>Best examples by use case</b><br>Category: 10 Catalogues<br>Source: 10 Catalogues/Best examples by use case.md<br>Keywords: smce, source, case, assessment, impact, want, socrates, best<br>Open page: pages/best-examples-by-use-case.html",
+      "group": "10 Catalogues",
+      "color": "#f59e0b",
+      "source": "10 Catalogues/Best examples by use case.md",
+      "url": "pages/best-examples-by-use-case.html",
+      "value": 66,
+      "degree": 27
+    },
+    {
       "id": "Catalogue - AI governance and policy support sources",
       "label": "Catalogue - AI governance and policy support sources",
       "title": "<b>Catalogue - AI governance and policy support sources</b><br>Category: 10 Catalogues<br>Source: 10 Catalogues/Catalogue - AI governance and policy support sources.md<br>Keywords: https, impact, assessment, public, governance, artificial, intelligence, policy<br>Open page: pages/catalogue-ai-governance-and-policy-support-sources.html",
@@ -112,8 +123,8 @@
       "color": "#f59e0b",
       "source": "10 Catalogues/Catalogue - SMCE and SOCRATES case studies.md",
       "url": "pages/catalogue-smce-and-socrates-case-studies.html",
-      "value": 34,
-      "degree": 11
+      "value": 36,
+      "degree": 12
     },
     {
       "id": "Catalogue - academic methods and papers",
@@ -134,8 +145,8 @@
       "color": "#f59e0b",
       "source": "10 Catalogues/Catalogue - downloaded SMCE and Better Regulation library.md",
       "url": "pages/catalogue-downloaded-smce-and-better-regulation-library.html",
-      "value": 32,
-      "degree": 10
+      "value": 34,
+      "degree": 11
     },
     {
       "id": "Catalogue - official EU and JRC sources",
@@ -156,8 +167,8 @@
       "color": "#8b5cf6",
       "source": "20 Core Concepts/Better Regulation Guidelines and Toolbox.md",
       "url": "pages/better-regulation-guidelines-and-toolbox.html",
-      "value": 78,
-      "degree": 33
+      "value": 80,
+      "degree": 34
     },
     {
       "id": "Better Regulation",
@@ -211,8 +222,8 @@
       "color": "#8b5cf6",
       "source": "20 Core Concepts/SMCE.md",
       "url": "pages/smce.html",
-      "value": 134,
-      "degree": 61
+      "value": 136,
+      "degree": 62
     },
     {
       "id": "SOCRATES",
@@ -222,19 +233,19 @@
       "color": "#8b5cf6",
       "source": "20 Core Concepts/SOCRATES.md",
       "url": "pages/socrates.html",
-      "value": 56,
-      "degree": 22
+      "value": 58,
+      "degree": 23
     },
     {
       "id": "Assessment structure and multi-criteria impact matrix",
       "label": "Assessment structure and multi-criteria impact matrix",
-      "title": "<b>Assessment structure and multi-criteria impact matrix</b><br>Category: 30 Methods<br>Source: 30 Methods/Assessment structure and multi-criteria impact matrix.md<br>Keywords: matrix, impact, criteria, criterion, options, equity, stakeholder, structure<br>Open page: pages/assessment-structure-and-multi-criteria-impact-matrix.html",
+      "title": "<b>Assessment structure and multi-criteria impact matrix</b><br>Category: 30 Methods<br>Source: 30 Methods/Assessment structure and multi-criteria impact matrix.md<br>Keywords: matrix, impact, criteria, options, criterion, equity, stakeholder, structure<br>Open page: pages/assessment-structure-and-multi-criteria-impact-matrix.html",
       "group": "30 Methods",
       "color": "#10b981",
       "source": "30 Methods/Assessment structure and multi-criteria impact matrix.md",
       "url": "pages/assessment-structure-and-multi-criteria-impact-matrix.html",
-      "value": 102,
-      "degree": 45
+      "value": 104,
+      "degree": 46
     },
     {
       "id": "Baseline and counterfactuals",
@@ -255,8 +266,8 @@
       "color": "#10b981",
       "source": "30 Methods/Criteria design.md",
       "url": "pages/criteria-design.html",
-      "value": 74,
-      "degree": 31
+      "value": 76,
+      "degree": 32
     },
     {
       "id": "Deliberative methods",
@@ -277,8 +288,8 @@
       "color": "#10b981",
       "source": "30 Methods/Equity analysis.md",
       "url": "pages/equity-analysis.html",
-      "value": 92,
-      "degree": 40
+      "value": 94,
+      "degree": 41
     },
     {
       "id": "Equity impact matrix guidance",
@@ -387,19 +398,19 @@
       "color": "#10b981",
       "source": "30 Methods/Sensitivity and robustness analysis.md",
       "url": "pages/sensitivity-and-robustness-analysis.html",
-      "value": 98,
-      "degree": 43
+      "value": 100,
+      "degree": 44
     },
     {
       "id": "Stakeholder consultation",
       "label": "Stakeholder consultation",
-      "title": "<b>Stakeholder consultation</b><br>Category: 30 Methods<br>Source: 30 Methods/Stakeholder consultation.md<br>Keywords: consultation, stakeholder, groups, impact, options, equity, assessment, analysis<br>Open page: pages/stakeholder-consultation.html",
+      "title": "<b>Stakeholder consultation</b><br>Category: 30 Methods<br>Source: 30 Methods/Stakeholder consultation.md<br>Keywords: consultation, stakeholder, groups, impact, equity, options, assessment, evidence<br>Open page: pages/stakeholder-consultation.html",
       "group": "30 Methods",
       "color": "#10b981",
       "source": "30 Methods/Stakeholder consultation.md",
       "url": "pages/stakeholder-consultation.html",
-      "value": 52,
-      "degree": 20
+      "value": 54,
+      "degree": 21
     },
     {
       "id": "Trade-offs and compensation",
@@ -409,8 +420,8 @@
       "color": "#10b981",
       "source": "30 Methods/Trade-offs and compensation.md",
       "url": "pages/trade-offs-and-compensation.html",
-      "value": 50,
-      "degree": 19
+      "value": 52,
+      "degree": 20
     },
     {
       "id": "Uncertainty register",
@@ -431,8 +442,8 @@
       "color": "#10b981",
       "source": "30 Methods/Weight elicitation.md",
       "url": "pages/weight-elicitation.html",
-      "value": 48,
-      "degree": 18
+      "value": 50,
+      "degree": 19
     },
     {
       "id": "Administrative burden assessment",
@@ -442,8 +453,8 @@
       "color": "#3b82f6",
       "source": "40 Policy Process/Administrative burden assessment.md",
       "url": "pages/administrative-burden-assessment.html",
-      "value": 48,
-      "degree": 18
+      "value": 50,
+      "degree": 19
     },
     {
       "id": "EC impact assessment",
@@ -486,8 +497,8 @@
       "color": "#3b82f6",
       "source": "40 Policy Process/Monitoring and evaluation indicators.md",
       "url": "pages/monitoring-and-evaluation-indicators.html",
-      "value": 56,
-      "degree": 22
+      "value": 58,
+      "degree": 23
     },
     {
       "id": "Objectives hierarchy",
@@ -497,19 +508,19 @@
       "color": "#3b82f6",
       "source": "40 Policy Process/Objectives hierarchy.md",
       "url": "pages/objectives-hierarchy.html",
-      "value": 44,
-      "degree": 16
+      "value": 46,
+      "degree": 17
     },
     {
       "id": "Option design",
       "label": "Option design",
-      "title": "<b>Option design</b><br>Category: 40 Policy Process<br>Source: 40 Policy Process/Option design.md<br>Keywords: option, options, design, baseline, impact, assessment, intervention, problem<br>Open page: pages/option-design.html",
+      "title": "<b>Option design</b><br>Category: 40 Policy Process<br>Source: 40 Policy Process/Option design.md<br>Keywords: option, options, design, baseline, impact, assessment, intervention, criteria<br>Open page: pages/option-design.html",
       "group": "40 Policy Process",
       "color": "#3b82f6",
       "source": "40 Policy Process/Option design.md",
       "url": "pages/option-design.html",
-      "value": 66,
-      "degree": 27
+      "value": 68,
+      "degree": 28
     },
     {
       "id": "Policy instrument mix",
@@ -536,13 +547,13 @@
     {
       "id": "Problem definition",
       "label": "Problem definition",
-      "title": "<b>Problem definition</b><br>Category: 40 Policy Process<br>Source: 40 Policy Process/Problem definition.md<br>Keywords: problem, definition, assessment, drivers, evidence, policy, baseline, impact<br>Open page: pages/problem-definition.html",
+      "title": "<b>Problem definition</b><br>Category: 40 Policy Process<br>Source: 40 Policy Process/Problem definition.md<br>Keywords: problem, definition, drivers, assessment, evidence, policy, baseline, impact<br>Open page: pages/problem-definition.html",
       "group": "40 Policy Process",
       "color": "#3b82f6",
       "source": "40 Policy Process/Problem definition.md",
       "url": "pages/problem-definition.html",
-      "value": 56,
-      "degree": 22
+      "value": 58,
+      "degree": 23
     },
     {
       "id": "Rights-based constraints",
@@ -992,8 +1003,8 @@
       "color": "#6366f1",
       "source": "95 Source-Derived Pages/20 years of SMCE in policy assessment - source note.md",
       "url": "pages/20-years-of-smce-in-policy-assessment-source-note.html",
-      "value": 28,
-      "degree": 8
+      "value": 30,
+      "degree": 9
     },
     {
       "id": "Better Regulation Toolbox - source note",
@@ -1014,8 +1025,8 @@
       "color": "#6366f1",
       "source": "95 Source-Derived Pages/CBA vs MCE in ex-ante impact assessment - source note.md",
       "url": "pages/cba-vs-mce-in-ex-ante-impact-assessment-source-note.html",
-      "value": 24,
-      "degree": 6
+      "value": 26,
+      "degree": 7
     },
     {
       "id": "Erasmus and AgoraEU impact assessment - source note",
@@ -1025,8 +1036,8 @@
       "color": "#6366f1",
       "source": "95 Source-Derived Pages/Erasmus and AgoraEU impact assessment - source note.md",
       "url": "pages/erasmus-and-agoraeu-impact-assessment-source-note.html",
-      "value": 24,
-      "degree": 6
+      "value": 26,
+      "degree": 7
     },
     {
       "id": "Local space heaters impact assessment - source note",
@@ -1036,8 +1047,8 @@
       "color": "#6366f1",
       "source": "95 Source-Derived Pages/Local space heaters impact assessment - source note.md",
       "url": "pages/local-space-heaters-impact-assessment-source-note.html",
-      "value": 24,
-      "degree": 6
+      "value": 26,
+      "degree": 7
     },
     {
       "id": "SMCE operational issues - source note",
@@ -1047,8 +1058,8 @@
       "color": "#6366f1",
       "source": "95 Source-Derived Pages/SMCE operational issues - source note.md",
       "url": "pages/smce-operational-issues-source-note.html",
-      "value": 26,
-      "degree": 7
+      "value": 28,
+      "degree": 8
     },
     {
       "id": "SOCRATES Manual - source note",
@@ -1069,8 +1080,8 @@
       "color": "#6366f1",
       "source": "95 Source-Derived Pages/SoHO impact assessment - source note.md",
       "url": "pages/soho-impact-assessment-source-note.html",
-      "value": 24,
-      "degree": 6
+      "value": 26,
+      "degree": 7
     },
     {
       "id": "Uncertainty and sensitivity analysis for policy decision making - source note",
@@ -1080,8 +1091,8 @@
       "color": "#6366f1",
       "source": "95 Source-Derived Pages/Uncertainty and sensitivity analysis for policy decision making - source note.md",
       "url": "pages/uncertainty-and-sensitivity-analysis-for-policy-decision-making-source-note.html",
-      "value": 24,
-      "degree": 6
+      "value": 26,
+      "degree": 7
     },
     {
       "id": "SMCE Wiki Home",
@@ -1091,8 +1102,8 @@
       "color": "#a78bfa",
       "source": "SMCE Wiki Home.md",
       "url": "pages/smce-wiki-home.html",
-      "value": 184,
-      "degree": 86
+      "value": 186,
+      "degree": 87
     }
   ],
   "edges": [
@@ -1476,6 +1487,13 @@
     },
     {
       "source": "Master bibliography",
+      "target": "Best examples by use case",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Master bibliography",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -1805,6 +1823,13 @@
     },
     {
       "source": "Source ingestion index",
+      "target": "Best examples by use case",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Source ingestion index",
       "target": "Catalogue - downloaded SMCE and Better Regulation library",
       "value": 3,
       "weight": 2,
@@ -1994,6 +2019,181 @@
     },
     {
       "source": "Wiki organization plan - Second Brain rollout",
+      "target": "SMCE Wiki Home",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SMCE Wiki Home"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Better Regulation Guidelines and Toolbox",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "SOCRATES",
+      "value": 4,
+      "weight": 3,
+      "title": "Shared wikilink connection weight: 3<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "SMCE",
+      "value": 4,
+      "weight": 3,
+      "title": "Shared wikilink connection weight: 3<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "20 years of SMCE in policy assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "SoHO impact assessment - source note",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Catalogue - SMCE and SOCRATES case studies",
+      "value": 5,
+      "weight": 4,
+      "title": "Shared wikilink connection weight: 4<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Equity analysis",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Administrative burden assessment",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Local space heaters impact assessment - source note",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Problem definition",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Option design",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Assessment structure and multi-criteria impact matrix",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Erasmus and AgoraEU impact assessment - source note",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Objectives hierarchy",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Stakeholder consultation",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Monitoring and evaluation indicators",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "CBA vs MCE in ex-ante impact assessment - source note",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Trade-offs and compensation",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Uncertainty and sensitivity analysis for policy decision making - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Sensitivity and robustness analysis",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "SMCE operational issues - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Criteria design",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Weight elicitation",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
+      "target": "Catalogue - downloaded SMCE and Better Regulation library",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Best examples by use case"
+    },
+    {
+      "source": "Best examples by use case",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
