@@ -1,9 +1,9 @@
 {
-  "node_count": 94,
-  "edge_count": 806,
+  "node_count": 98,
+  "edge_count": 835,
   "categories": {
     "00 System": 7,
-    "10 Catalogues": 4,
+    "10 Catalogues": 5,
     "20 Core Concepts": 7,
     "30 Methods": 19,
     "40 Policy Process": 11,
@@ -12,7 +12,7 @@
     "70 Contract Execution": 8,
     "80 Drafts and Review": 11,
     "90 Aliases": 8,
-    "95 Source-Derived Pages": 6,
+    "95 Source-Derived Pages": 9,
     "root": 1
   },
   "nodes": [
@@ -46,8 +46,8 @@
       "color": "#94a3b8",
       "source": "00 System/Master bibliography.md",
       "url": "pages/master-bibliography.html",
-      "value": 22,
-      "degree": 5
+      "value": 24,
+      "degree": 6
     },
     {
       "id": "Next steps after contract reread",
@@ -63,13 +63,13 @@
     {
       "id": "Source ingestion index",
       "label": "Source ingestion index",
-      "title": "<b>Source ingestion index</b><br>Category: 00 System<br>Source: 00 System/Source ingestion index.md<br>Keywords: extracted, manifest, text, source, file, extracted-text, source-manifests, recovered<br>Open page: pages/source-ingestion-index.html",
+      "title": "<b>Source ingestion index</b><br>Category: 00 System<br>Source: 00 System/Source ingestion index.md<br>Keywords: extracted, manifest, text, source, extracted-text, source-manifests, file, type<br>Open page: pages/source-ingestion-index.html",
       "group": "00 System",
       "color": "#94a3b8",
       "source": "00 System/Source ingestion index.md",
       "url": "pages/source-ingestion-index.html",
-      "value": 62,
-      "degree": 25
+      "value": 70,
+      "degree": 29
     },
     {
       "id": "Wiki audit memo",
@@ -105,6 +105,17 @@
       "degree": 4
     },
     {
+      "id": "Catalogue - SMCE and SOCRATES case studies",
+      "label": "Catalogue - SMCE and SOCRATES case studies",
+      "title": "<b>Catalogue - SMCE and SOCRATES case studies</b><br>Category: 10 Catalogues<br>Source: 10 Catalogues/Catalogue - SMCE and SOCRATES case studies.md<br>Keywords: smce, assessment, case, impact, final, https, 2024, official<br>Open page: pages/catalogue-smce-and-socrates-case-studies.html",
+      "group": "10 Catalogues",
+      "color": "#f59e0b",
+      "source": "10 Catalogues/Catalogue - SMCE and SOCRATES case studies.md",
+      "url": "pages/catalogue-smce-and-socrates-case-studies.html",
+      "value": 34,
+      "degree": 11
+    },
+    {
       "id": "Catalogue - academic methods and papers",
       "label": "Catalogue - academic methods and papers",
       "title": "<b>Catalogue - academic methods and papers</b><br>Category: 10 Catalogues<br>Source: 10 Catalogues/Catalogue - academic methods and papers.md<br>Keywords: year, venue, type, https, relevance, authors, analysis, policy<br>Open page: pages/catalogue-academic-methods-and-papers.html",
@@ -118,13 +129,13 @@
     {
       "id": "Catalogue - downloaded SMCE and Better Regulation library",
       "label": "Catalogue - downloaded SMCE and Better Regulation library",
-      "title": "<b>Catalogue - downloaded SMCE and Better Regulation library</b><br>Category: 10 Catalogues<br>Source: 10 Catalogues/Catalogue - downloaded SMCE and Better Regulation library.md<br>Keywords: downloaded, smce, sensitivity, analysis, high, better, regulation, sources<br>Open page: pages/catalogue-downloaded-smce-and-better-regulation-library.html",
+      "title": "<b>Catalogue - downloaded SMCE and Better Regulation library</b><br>Category: 10 Catalogues<br>Source: 10 Catalogues/Catalogue - downloaded SMCE and Better Regulation library.md<br>Keywords: smce, socrates, assessment, downloaded, impact, catalogue, sensitivity, analysis<br>Open page: pages/catalogue-downloaded-smce-and-better-regulation-library.html",
       "group": "10 Catalogues",
       "color": "#f59e0b",
       "source": "10 Catalogues/Catalogue - downloaded SMCE and Better Regulation library.md",
       "url": "pages/catalogue-downloaded-smce-and-better-regulation-library.html",
-      "value": 30,
-      "degree": 9
+      "value": 32,
+      "degree": 10
     },
     {
       "id": "Catalogue - official EU and JRC sources",
@@ -134,13 +145,13 @@
       "color": "#f59e0b",
       "source": "10 Catalogues/Catalogue - official EU and JRC sources.md",
       "url": "pages/catalogue-official-eu-and-jrc-sources.html",
-      "value": 34,
-      "degree": 11
+      "value": 36,
+      "degree": 12
     },
     {
       "id": "Better Regulation Guidelines and Toolbox",
       "label": "Better Regulation Guidelines and Toolbox",
-      "title": "<b>Better Regulation Guidelines and Toolbox</b><br>Category: 20 Core Concepts<br>Source: 20 Core Concepts/Better Regulation Guidelines and Toolbox.md<br>Keywords: commission, toolbox, better, regulation, guidelines, smce, impact, european<br>Open page: pages/better-regulation-guidelines-and-toolbox.html",
+      "title": "<b>Better Regulation Guidelines and Toolbox</b><br>Category: 20 Core Concepts<br>Source: 20 Core Concepts/Better Regulation Guidelines and Toolbox.md<br>Keywords: commission, toolbox, better, regulation, smce, guidelines, impact, european<br>Open page: pages/better-regulation-guidelines-and-toolbox.html",
       "group": "20 Core Concepts",
       "color": "#8b5cf6",
       "source": "20 Core Concepts/Better Regulation Guidelines and Toolbox.md",
@@ -195,24 +206,24 @@
     {
       "id": "SMCE",
       "label": "SMCE",
-      "title": "<b>SMCE</b><br>Category: 20 Core Concepts<br>Source: 20 Core Concepts/SMCE.md<br>Keywords: smce, policy, stakeholder, options, criteria, assessment, option, decision<br>Open page: pages/smce.html",
+      "title": "<b>SMCE</b><br>Category: 20 Core Concepts<br>Source: 20 Core Concepts/SMCE.md<br>Keywords: smce, policy, stakeholder, assessment, options, criteria, option, decision<br>Open page: pages/smce.html",
       "group": "20 Core Concepts",
       "color": "#8b5cf6",
       "source": "20 Core Concepts/SMCE.md",
       "url": "pages/smce.html",
-      "value": 132,
-      "degree": 60
+      "value": 134,
+      "degree": 61
     },
     {
       "id": "SOCRATES",
       "label": "SOCRATES",
-      "title": "<b>SOCRATES</b><br>Category: 20 Core Concepts<br>Source: 20 Core Concepts/SOCRATES.md<br>Keywords: socrates, impact, assessment, stakeholder, policy, analysis, equity, smce<br>Open page: pages/socrates.html",
+      "title": "<b>SOCRATES</b><br>Category: 20 Core Concepts<br>Source: 20 Core Concepts/SOCRATES.md<br>Keywords: socrates, impact, assessment, policy, stakeholder, analysis, smce, equity<br>Open page: pages/socrates.html",
       "group": "20 Core Concepts",
       "color": "#8b5cf6",
       "source": "20 Core Concepts/SOCRATES.md",
       "url": "pages/socrates.html",
-      "value": 54,
-      "degree": 21
+      "value": 56,
+      "degree": 22
     },
     {
       "id": "Assessment structure and multi-criteria impact matrix",
@@ -222,8 +233,8 @@
       "color": "#10b981",
       "source": "30 Methods/Assessment structure and multi-criteria impact matrix.md",
       "url": "pages/assessment-structure-and-multi-criteria-impact-matrix.html",
-      "value": 98,
-      "degree": 43
+      "value": 102,
+      "degree": 45
     },
     {
       "id": "Baseline and counterfactuals",
@@ -266,8 +277,8 @@
       "color": "#10b981",
       "source": "30 Methods/Equity analysis.md",
       "url": "pages/equity-analysis.html",
-      "value": 90,
-      "degree": 39
+      "value": 92,
+      "degree": 40
     },
     {
       "id": "Equity impact matrix guidance",
@@ -321,8 +332,8 @@
       "color": "#10b981",
       "source": "30 Methods/Option screening.md",
       "url": "pages/option-screening.html",
-      "value": 44,
-      "degree": 16
+      "value": 46,
+      "degree": 17
     },
     {
       "id": "Outranking methods",
@@ -371,13 +382,13 @@
     {
       "id": "Sensitivity and robustness analysis",
       "label": "Sensitivity and robustness analysis",
-      "title": "<b>Sensitivity and robustness analysis</b><br>Category: 30 Methods<br>Source: 30 Methods/Sensitivity and robustness analysis.md<br>Keywords: analysis, sensitivity, robustness, weights, assumptions, option, stakeholder, whether<br>Open page: pages/sensitivity-and-robustness-analysis.html",
+      "title": "<b>Sensitivity and robustness analysis</b><br>Category: 30 Methods<br>Source: 30 Methods/Sensitivity and robustness analysis.md<br>Keywords: analysis, sensitivity, robustness, weights, assumptions, option, policy, stakeholder<br>Open page: pages/sensitivity-and-robustness-analysis.html",
       "group": "30 Methods",
       "color": "#10b981",
       "source": "30 Methods/Sensitivity and robustness analysis.md",
       "url": "pages/sensitivity-and-robustness-analysis.html",
-      "value": 96,
-      "degree": 42
+      "value": 98,
+      "degree": 43
     },
     {
       "id": "Stakeholder consultation",
@@ -387,13 +398,13 @@
       "color": "#10b981",
       "source": "30 Methods/Stakeholder consultation.md",
       "url": "pages/stakeholder-consultation.html",
-      "value": 50,
-      "degree": 19
+      "value": 52,
+      "degree": 20
     },
     {
       "id": "Trade-offs and compensation",
       "label": "Trade-offs and compensation",
-      "title": "<b>Trade-offs and compensation</b><br>Category: 30 Methods<br>Source: 30 Methods/Trade-offs and compensation.md<br>Keywords: compensation, option, trade-offs, criteria, analysis, robustness, smce, another<br>Open page: pages/trade-offs-and-compensation.html",
+      "title": "<b>Trade-offs and compensation</b><br>Category: 30 Methods<br>Source: 30 Methods/Trade-offs and compensation.md<br>Keywords: compensation, option, trade-offs, criteria, analysis, robustness, criterion, smce<br>Open page: pages/trade-offs-and-compensation.html",
       "group": "30 Methods",
       "color": "#10b981",
       "source": "30 Methods/Trade-offs and compensation.md",
@@ -431,8 +442,8 @@
       "color": "#3b82f6",
       "source": "40 Policy Process/Administrative burden assessment.md",
       "url": "pages/administrative-burden-assessment.html",
-      "value": 46,
-      "degree": 17
+      "value": 48,
+      "degree": 18
     },
     {
       "id": "EC impact assessment",
@@ -442,8 +453,8 @@
       "color": "#3b82f6",
       "source": "40 Policy Process/EC impact assessment.md",
       "url": "pages/ec-impact-assessment.html",
-      "value": 90,
-      "degree": 39
+      "value": 98,
+      "degree": 43
     },
     {
       "id": "Implementation feasibility",
@@ -475,8 +486,8 @@
       "color": "#3b82f6",
       "source": "40 Policy Process/Monitoring and evaluation indicators.md",
       "url": "pages/monitoring-and-evaluation-indicators.html",
-      "value": 52,
-      "degree": 20
+      "value": 56,
+      "degree": 22
     },
     {
       "id": "Objectives hierarchy",
@@ -486,8 +497,8 @@
       "color": "#3b82f6",
       "source": "40 Policy Process/Objectives hierarchy.md",
       "url": "pages/objectives-hierarchy.html",
-      "value": 42,
-      "degree": 15
+      "value": 44,
+      "degree": 16
     },
     {
       "id": "Option design",
@@ -497,8 +508,8 @@
       "color": "#3b82f6",
       "source": "40 Policy Process/Option design.md",
       "url": "pages/option-design.html",
-      "value": 62,
-      "degree": 25
+      "value": 66,
+      "degree": 27
     },
     {
       "id": "Policy instrument mix",
@@ -530,8 +541,8 @@
       "color": "#3b82f6",
       "source": "40 Policy Process/Problem definition.md",
       "url": "pages/problem-definition.html",
-      "value": 54,
-      "degree": 21
+      "value": 56,
+      "degree": 22
     },
     {
       "id": "Rights-based constraints",
@@ -552,8 +563,8 @@
       "color": "#ef4444",
       "source": "50 Stakeholders, Equity and Distribution/Distributional effects.md",
       "url": "pages/distributional-effects.html",
-      "value": 68,
-      "degree": 28
+      "value": 70,
+      "degree": 29
     },
     {
       "id": "Distributional weighting",
@@ -981,8 +992,8 @@
       "color": "#6366f1",
       "source": "95 Source-Derived Pages/20 years of SMCE in policy assessment - source note.md",
       "url": "pages/20-years-of-smce-in-policy-assessment-source-note.html",
-      "value": 26,
-      "degree": 7
+      "value": 28,
+      "degree": 8
     },
     {
       "id": "Better Regulation Toolbox - source note",
@@ -1003,6 +1014,28 @@
       "color": "#6366f1",
       "source": "95 Source-Derived Pages/CBA vs MCE in ex-ante impact assessment - source note.md",
       "url": "pages/cba-vs-mce-in-ex-ante-impact-assessment-source-note.html",
+      "value": 24,
+      "degree": 6
+    },
+    {
+      "id": "Erasmus and AgoraEU impact assessment - source note",
+      "label": "Erasmus and AgoraEU impact assessment - source note",
+      "title": "<b>Erasmus and AgoraEU impact assessment - source note</b><br>Category: 95 Source-Derived Pages<br>Source: 95 Source-Derived Pages/Erasmus and AgoraEU impact assessment - source note.md<br>Keywords: 2025, impact, assessment, swd-2025-550-erasmus-agoraeu-impact-assessment, extracted, objectives, options, erasmus<br>Open page: pages/erasmus-and-agoraeu-impact-assessment-source-note.html",
+      "group": "95 Source-Derived Pages",
+      "color": "#6366f1",
+      "source": "95 Source-Derived Pages/Erasmus and AgoraEU impact assessment - source note.md",
+      "url": "pages/erasmus-and-agoraeu-impact-assessment-source-note.html",
+      "value": 24,
+      "degree": 6
+    },
+    {
+      "id": "Local space heaters impact assessment - source note",
+      "label": "Local space heaters impact assessment - source note",
+      "title": "<b>Local space heaters impact assessment - source note</b><br>Category: 95 Source-Derived Pages<br>Source: 95 Source-Derived Pages/Local space heaters impact assessment - source note.md<br>Keywords: impact, assessment, 2024, local, commission, official, swd-2024-62-local-space-heaters, comparison<br>Open page: pages/local-space-heaters-impact-assessment-source-note.html",
+      "group": "95 Source-Derived Pages",
+      "color": "#6366f1",
+      "source": "95 Source-Derived Pages/Local space heaters impact assessment - source note.md",
+      "url": "pages/local-space-heaters-impact-assessment-source-note.html",
       "value": 24,
       "degree": 6
     },
@@ -1029,6 +1062,17 @@
       "degree": 8
     },
     {
+      "id": "SoHO impact assessment - source note",
+      "label": "SoHO impact assessment - source note",
+      "title": "<b>SoHO impact assessment - source note</b><br>Category: 95 Source-Derived Pages<br>Source: 95 Source-Derived Pages/SoHO impact assessment - source note.md<br>Keywords: impact, assessment, 2022, source, safety, files, options, downloaded<br>Open page: pages/soho-impact-assessment-source-note.html",
+      "group": "95 Source-Derived Pages",
+      "color": "#6366f1",
+      "source": "95 Source-Derived Pages/SoHO impact assessment - source note.md",
+      "url": "pages/soho-impact-assessment-source-note.html",
+      "value": 24,
+      "degree": 6
+    },
+    {
       "id": "Uncertainty and sensitivity analysis for policy decision making - source note",
       "label": "Uncertainty and sensitivity analysis for policy decision making - source note",
       "title": "<b>Uncertainty and sensitivity analysis for policy decision making - source note</b><br>Category: 95 Source-Derived Pages<br>Source: 95 Source-Derived Pages/Uncertainty and sensitivity analysis for policy decision making - source note.md<br>Keywords: sensitivity, analysis, uncertainty, source, policy, making, local, uncertainty-sensitivity-jrc-2020<br>Open page: pages/uncertainty-and-sensitivity-analysis-for-policy-decision-making-source-note.html",
@@ -1042,13 +1086,13 @@
     {
       "id": "SMCE Wiki Home",
       "label": "SMCE Wiki Home",
-      "title": "<b>SMCE Wiki Home</b><br>Category: root<br>Source: SMCE Wiki Home.md<br>Keywords: impact, assessment, analysis, policy, smce, better, regulation, newly<br>Open page: pages/smce-wiki-home.html",
+      "title": "<b>SMCE Wiki Home</b><br>Category: root<br>Source: SMCE Wiki Home.md<br>Keywords: impact, assessment, analysis, smce, catalogue, policy, better, regulation<br>Open page: pages/smce-wiki-home.html",
       "group": "root",
       "color": "#a78bfa",
       "source": "SMCE Wiki Home.md",
       "url": "pages/smce-wiki-home.html",
-      "value": 182,
-      "degree": 85
+      "value": 184,
+      "degree": 86
     }
   ],
   "edges": [
@@ -1418,6 +1462,13 @@
     },
     {
       "source": "Master bibliography",
+      "target": "Catalogue - SMCE and SOCRATES case studies",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Master bibliography"
+    },
+    {
+      "source": "Master bibliography",
       "target": "Source ingestion index",
       "value": 2,
       "weight": 1,
@@ -1726,10 +1777,38 @@
     },
     {
       "source": "Source ingestion index",
-      "target": "Catalogue - downloaded SMCE and Better Regulation library",
+      "target": "Local space heaters impact assessment - source note",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "Catalogue - SMCE and SOCRATES case studies",
+      "value": 6,
+      "weight": 5,
+      "title": "Shared wikilink connection weight: 5<br>Seen from: Catalogue - SMCE and SOCRATES case studies, Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "Erasmus and AgoraEU impact assessment - source note",
       "value": 2,
       "weight": 1,
-      "title": "Shared wikilink connection weight: 1<br>Seen from: Catalogue - downloaded SMCE and Better Regulation library"
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "SoHO impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "Catalogue - downloaded SMCE and Better Regulation library",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Catalogue - downloaded SMCE and Better Regulation library"
     },
     {
       "source": "Source ingestion index",
@@ -1947,6 +2026,69 @@
       "value": 2,
       "weight": 1,
       "title": "Shared wikilink connection weight: 1<br>Seen from: SMCE Wiki Home"
+    },
+    {
+      "source": "Catalogue - SMCE and SOCRATES case studies",
+      "target": "SMCE",
+      "value": 4,
+      "weight": 3,
+      "title": "Shared wikilink connection weight: 3<br>Seen from: Catalogue - SMCE and SOCRATES case studies"
+    },
+    {
+      "source": "Catalogue - SMCE and SOCRATES case studies",
+      "target": "SOCRATES",
+      "value": 4,
+      "weight": 3,
+      "title": "Shared wikilink connection weight: 3<br>Seen from: Catalogue - SMCE and SOCRATES case studies"
+    },
+    {
+      "source": "Catalogue - SMCE and SOCRATES case studies",
+      "target": "Catalogue - downloaded SMCE and Better Regulation library",
+      "value": 6,
+      "weight": 5,
+      "title": "Shared wikilink connection weight: 5<br>Seen from: Catalogue - SMCE and SOCRATES case studies, Catalogue - downloaded SMCE and Better Regulation library"
+    },
+    {
+      "source": "Catalogue - SMCE and SOCRATES case studies",
+      "target": "20 years of SMCE in policy assessment - source note",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Catalogue - SMCE and SOCRATES case studies"
+    },
+    {
+      "source": "Catalogue - SMCE and SOCRATES case studies",
+      "target": "EC impact assessment",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Catalogue - SMCE and SOCRATES case studies"
+    },
+    {
+      "source": "Catalogue - SMCE and SOCRATES case studies",
+      "target": "Assessment structure and multi-criteria impact matrix",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Catalogue - SMCE and SOCRATES case studies"
+    },
+    {
+      "source": "Catalogue - SMCE and SOCRATES case studies",
+      "target": "Sensitivity and robustness analysis",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Catalogue - SMCE and SOCRATES case studies"
+    },
+    {
+      "source": "Catalogue - SMCE and SOCRATES case studies",
+      "target": "Catalogue - official EU and JRC sources",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Catalogue - SMCE and SOCRATES case studies"
+    },
+    {
+      "source": "Catalogue - SMCE and SOCRATES case studies",
+      "target": "SMCE Wiki Home",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: SMCE Wiki Home"
     },
     {
       "source": "Catalogue - academic methods and papers",
@@ -3420,6 +3562,13 @@
     },
     {
       "source": "Assessment structure and multi-criteria impact matrix",
+      "target": "Local space heaters impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Local space heaters impact assessment - source note"
+    },
+    {
+      "source": "Assessment structure and multi-criteria impact matrix",
       "target": "SMCE operational issues - source note",
       "value": 2,
       "weight": 1,
@@ -4022,6 +4171,13 @@
     },
     {
       "source": "Equity analysis",
+      "target": "SoHO impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SoHO impact assessment - source note"
+    },
+    {
+      "source": "Equity analysis",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -4439,6 +4595,13 @@
       "value": 2,
       "weight": 1,
       "title": "Shared wikilink connection weight: 1<br>Seen from: Option screening"
+    },
+    {
+      "source": "Option screening",
+      "target": "SoHO impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SoHO impact assessment - source note"
     },
     {
       "source": "Option screening",
@@ -4862,6 +5025,13 @@
     },
     {
       "source": "Stakeholder consultation",
+      "target": "Erasmus and AgoraEU impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Erasmus and AgoraEU impact assessment - source note"
+    },
+    {
+      "source": "Stakeholder consultation",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -5107,6 +5277,13 @@
     },
     {
       "source": "Administrative burden assessment",
+      "target": "SoHO impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SoHO impact assessment - source note"
+    },
+    {
+      "source": "Administrative burden assessment",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -5219,6 +5396,20 @@
     },
     {
       "source": "EC impact assessment",
+      "target": "Erasmus and AgoraEU impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Erasmus and AgoraEU impact assessment - source note"
+    },
+    {
+      "source": "EC impact assessment",
+      "target": "Local space heaters impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Local space heaters impact assessment - source note"
+    },
+    {
+      "source": "EC impact assessment",
       "target": "SMCE operational issues - source note",
       "value": 3,
       "weight": 2,
@@ -5230,6 +5421,13 @@
       "value": 2,
       "weight": 1,
       "title": "Shared wikilink connection weight: 1<br>Seen from: SOCRATES Manual - source note"
+    },
+    {
+      "source": "EC impact assessment",
+      "target": "SoHO impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SoHO impact assessment - source note"
     },
     {
       "source": "EC impact assessment",
@@ -5387,6 +5585,20 @@
     },
     {
       "source": "Monitoring and evaluation indicators",
+      "target": "Erasmus and AgoraEU impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Erasmus and AgoraEU impact assessment - source note"
+    },
+    {
+      "source": "Monitoring and evaluation indicators",
+      "target": "Local space heaters impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Local space heaters impact assessment - source note"
+    },
+    {
+      "source": "Monitoring and evaluation indicators",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -5398,6 +5610,13 @@
       "value": 3,
       "weight": 2,
       "title": "Shared wikilink connection weight: 2<br>Seen from: Objectives hierarchy"
+    },
+    {
+      "source": "Objectives hierarchy",
+      "target": "Erasmus and AgoraEU impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Erasmus and AgoraEU impact assessment - source note"
     },
     {
       "source": "Objectives hierarchy",
@@ -5447,6 +5666,20 @@
       "value": 2,
       "weight": 1,
       "title": "Shared wikilink connection weight: 1<br>Seen from: Better Regulation Toolbox - source note"
+    },
+    {
+      "source": "Option design",
+      "target": "Erasmus and AgoraEU impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Erasmus and AgoraEU impact assessment - source note"
+    },
+    {
+      "source": "Option design",
+      "target": "Local space heaters impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Local space heaters impact assessment - source note"
     },
     {
       "source": "Option design",
@@ -5576,6 +5809,13 @@
     },
     {
       "source": "Problem definition",
+      "target": "Local space heaters impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Local space heaters impact assessment - source note"
+    },
+    {
+      "source": "Problem definition",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -5650,6 +5890,13 @@
       "value": 2,
       "weight": 1,
       "title": "Shared wikilink connection weight: 1<br>Seen from: CBA vs MCE in ex-ante impact assessment - source note"
+    },
+    {
+      "source": "Distributional effects",
+      "target": "SoHO impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SoHO impact assessment - source note"
     },
     {
       "source": "Distributional effects",
