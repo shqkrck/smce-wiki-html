@@ -1,9 +1,9 @@
 {
-  "node_count": 87,
-  "edge_count": 751,
+  "node_count": 94,
+  "edge_count": 806,
   "categories": {
     "00 System": 7,
-    "10 Catalogues": 3,
+    "10 Catalogues": 4,
     "20 Core Concepts": 7,
     "30 Methods": 19,
     "40 Policy Process": 11,
@@ -12,6 +12,7 @@
     "70 Contract Execution": 8,
     "80 Drafts and Review": 11,
     "90 Aliases": 8,
+    "95 Source-Derived Pages": 6,
     "root": 1
   },
   "nodes": [
@@ -45,8 +46,8 @@
       "color": "#94a3b8",
       "source": "00 System/Master bibliography.md",
       "url": "pages/master-bibliography.html",
-      "value": 18,
-      "degree": 3
+      "value": 22,
+      "degree": 5
     },
     {
       "id": "Next steps after contract reread",
@@ -62,13 +63,13 @@
     {
       "id": "Source ingestion index",
       "label": "Source ingestion index",
-      "title": "<b>Source ingestion index</b><br>Category: 00 System<br>Source: 00 System/Source ingestion index.md<br>Keywords: text, recovered, extracted, manifest, original, impact, found, assessment<br>Open page: pages/source-ingestion-index.html",
+      "title": "<b>Source ingestion index</b><br>Category: 00 System<br>Source: 00 System/Source ingestion index.md<br>Keywords: extracted, manifest, text, source, file, extracted-text, source-manifests, recovered<br>Open page: pages/source-ingestion-index.html",
       "group": "00 System",
       "color": "#94a3b8",
       "source": "00 System/Source ingestion index.md",
       "url": "pages/source-ingestion-index.html",
-      "value": 38,
-      "degree": 13
+      "value": 62,
+      "degree": 25
     },
     {
       "id": "Wiki audit memo",
@@ -115,6 +116,17 @@
       "degree": 6
     },
     {
+      "id": "Catalogue - downloaded SMCE and Better Regulation library",
+      "label": "Catalogue - downloaded SMCE and Better Regulation library",
+      "title": "<b>Catalogue - downloaded SMCE and Better Regulation library</b><br>Category: 10 Catalogues<br>Source: 10 Catalogues/Catalogue - downloaded SMCE and Better Regulation library.md<br>Keywords: downloaded, smce, sensitivity, analysis, high, better, regulation, sources<br>Open page: pages/catalogue-downloaded-smce-and-better-regulation-library.html",
+      "group": "10 Catalogues",
+      "color": "#f59e0b",
+      "source": "10 Catalogues/Catalogue - downloaded SMCE and Better Regulation library.md",
+      "url": "pages/catalogue-downloaded-smce-and-better-regulation-library.html",
+      "value": 30,
+      "degree": 9
+    },
+    {
       "id": "Catalogue - official EU and JRC sources",
       "label": "Catalogue - official EU and JRC sources",
       "title": "<b>Catalogue - official EU and JRC sources</b><br>Category: 10 Catalogues<br>Source: 10 Catalogues/Catalogue - official EU and JRC sources.md<br>Keywords: commission, https, europa, european, better, impact, assessment, regulation<br>Open page: pages/catalogue-official-eu-and-jrc-sources.html",
@@ -122,8 +134,8 @@
       "color": "#f59e0b",
       "source": "10 Catalogues/Catalogue - official EU and JRC sources.md",
       "url": "pages/catalogue-official-eu-and-jrc-sources.html",
-      "value": 32,
-      "degree": 10
+      "value": 34,
+      "degree": 11
     },
     {
       "id": "Better Regulation Guidelines and Toolbox",
@@ -133,8 +145,8 @@
       "color": "#8b5cf6",
       "source": "20 Core Concepts/Better Regulation Guidelines and Toolbox.md",
       "url": "pages/better-regulation-guidelines-and-toolbox.html",
-      "value": 70,
-      "degree": 29
+      "value": 78,
+      "degree": 33
     },
     {
       "id": "Better Regulation",
@@ -144,8 +156,8 @@
       "color": "#8b5cf6",
       "source": "20 Core Concepts/Better Regulation.md",
       "url": "pages/better-regulation.html",
-      "value": 58,
-      "degree": 23
+      "value": 60,
+      "degree": 24
     },
     {
       "id": "MCDA glossary",
@@ -177,19 +189,19 @@
       "color": "#8b5cf6",
       "source": "20 Core Concepts/Regulatory Scrutiny Board.md",
       "url": "pages/regulatory-scrutiny-board.html",
-      "value": 62,
-      "degree": 25
+      "value": 64,
+      "degree": 26
     },
     {
       "id": "SMCE",
       "label": "SMCE",
-      "title": "<b>SMCE</b><br>Category: 20 Core Concepts<br>Source: 20 Core Concepts/SMCE.md<br>Keywords: smce, policy, stakeholder, options, criteria, option, decision, analysis<br>Open page: pages/smce.html",
+      "title": "<b>SMCE</b><br>Category: 20 Core Concepts<br>Source: 20 Core Concepts/SMCE.md<br>Keywords: smce, policy, stakeholder, options, criteria, assessment, option, decision<br>Open page: pages/smce.html",
       "group": "20 Core Concepts",
       "color": "#8b5cf6",
       "source": "20 Core Concepts/SMCE.md",
       "url": "pages/smce.html",
-      "value": 118,
-      "degree": 53
+      "value": 132,
+      "degree": 60
     },
     {
       "id": "SOCRATES",
@@ -199,8 +211,8 @@
       "color": "#8b5cf6",
       "source": "20 Core Concepts/SOCRATES.md",
       "url": "pages/socrates.html",
-      "value": 44,
-      "degree": 16
+      "value": 54,
+      "degree": 21
     },
     {
       "id": "Assessment structure and multi-criteria impact matrix",
@@ -210,8 +222,8 @@
       "color": "#10b981",
       "source": "30 Methods/Assessment structure and multi-criteria impact matrix.md",
       "url": "pages/assessment-structure-and-multi-criteria-impact-matrix.html",
-      "value": 92,
-      "degree": 40
+      "value": 98,
+      "degree": 43
     },
     {
       "id": "Baseline and counterfactuals",
@@ -232,8 +244,8 @@
       "color": "#10b981",
       "source": "30 Methods/Criteria design.md",
       "url": "pages/criteria-design.html",
-      "value": 72,
-      "degree": 30
+      "value": 74,
+      "degree": 31
     },
     {
       "id": "Deliberative methods",
@@ -254,8 +266,8 @@
       "color": "#10b981",
       "source": "30 Methods/Equity analysis.md",
       "url": "pages/equity-analysis.html",
-      "value": 84,
-      "degree": 36
+      "value": 90,
+      "degree": 39
     },
     {
       "id": "Equity impact matrix guidance",
@@ -342,8 +354,8 @@
       "color": "#10b981",
       "source": "30 Methods/Scenario analysis.md",
       "url": "pages/scenario-analysis.html",
-      "value": 42,
-      "degree": 15
+      "value": 44,
+      "degree": 16
     },
     {
       "id": "Scoring and normalization",
@@ -364,8 +376,8 @@
       "color": "#10b981",
       "source": "30 Methods/Sensitivity and robustness analysis.md",
       "url": "pages/sensitivity-and-robustness-analysis.html",
-      "value": 86,
-      "degree": 37
+      "value": 96,
+      "degree": 42
     },
     {
       "id": "Stakeholder consultation",
@@ -386,8 +398,8 @@
       "color": "#10b981",
       "source": "30 Methods/Trade-offs and compensation.md",
       "url": "pages/trade-offs-and-compensation.html",
-      "value": 48,
-      "degree": 18
+      "value": 50,
+      "degree": 19
     },
     {
       "id": "Uncertainty register",
@@ -397,8 +409,8 @@
       "color": "#10b981",
       "source": "30 Methods/Uncertainty register.md",
       "url": "pages/uncertainty-register.html",
-      "value": 60,
-      "degree": 24
+      "value": 62,
+      "degree": 25
     },
     {
       "id": "Weight elicitation",
@@ -408,8 +420,8 @@
       "color": "#10b981",
       "source": "30 Methods/Weight elicitation.md",
       "url": "pages/weight-elicitation.html",
-      "value": 46,
-      "degree": 17
+      "value": 48,
+      "degree": 18
     },
     {
       "id": "Administrative burden assessment",
@@ -430,8 +442,8 @@
       "color": "#3b82f6",
       "source": "40 Policy Process/EC impact assessment.md",
       "url": "pages/ec-impact-assessment.html",
-      "value": 82,
-      "degree": 35
+      "value": 90,
+      "degree": 39
     },
     {
       "id": "Implementation feasibility",
@@ -463,8 +475,8 @@
       "color": "#3b82f6",
       "source": "40 Policy Process/Monitoring and evaluation indicators.md",
       "url": "pages/monitoring-and-evaluation-indicators.html",
-      "value": 50,
-      "degree": 19
+      "value": 52,
+      "degree": 20
     },
     {
       "id": "Objectives hierarchy",
@@ -485,8 +497,8 @@
       "color": "#3b82f6",
       "source": "40 Policy Process/Option design.md",
       "url": "pages/option-design.html",
-      "value": 58,
-      "degree": 23
+      "value": 62,
+      "degree": 25
     },
     {
       "id": "Policy instrument mix",
@@ -518,8 +530,8 @@
       "color": "#3b82f6",
       "source": "40 Policy Process/Problem definition.md",
       "url": "pages/problem-definition.html",
-      "value": 52,
-      "degree": 20
+      "value": 54,
+      "degree": 21
     },
     {
       "id": "Rights-based constraints",
@@ -540,8 +552,8 @@
       "color": "#ef4444",
       "source": "50 Stakeholders, Equity and Distribution/Distributional effects.md",
       "url": "pages/distributional-effects.html",
-      "value": 66,
-      "degree": 27
+      "value": 68,
+      "degree": 28
     },
     {
       "id": "Distributional weighting",
@@ -584,8 +596,8 @@
       "color": "#ef4444",
       "source": "50 Stakeholders, Equity and Distribution/Stakeholder mapping.md",
       "url": "pages/stakeholder-mapping.html",
-      "value": 60,
-      "degree": 24
+      "value": 62,
+      "degree": 25
     },
     {
       "id": "Stakeholder salience",
@@ -962,15 +974,81 @@
       "degree": 8
     },
     {
+      "id": "20 years of SMCE in policy assessment - source note",
+      "label": "20 years of SMCE in policy assessment - source note",
+      "title": "<b>20 years of SMCE in policy assessment - source note</b><br>Category: 95 Source-Derived Pages<br>Source: 95 Source-Derived Pages/20 years of SMCE in policy assessment - source note.md<br>Keywords: smce, source, policy, assessment, applications, multi-criteria, smce-20-year-review-2025, best<br>Open page: pages/20-years-of-smce-in-policy-assessment-source-note.html",
+      "group": "95 Source-Derived Pages",
+      "color": "#6366f1",
+      "source": "95 Source-Derived Pages/20 years of SMCE in policy assessment - source note.md",
+      "url": "pages/20-years-of-smce-in-policy-assessment-source-note.html",
+      "value": 26,
+      "degree": 7
+    },
+    {
+      "id": "Better Regulation Toolbox - source note",
+      "label": "Better Regulation Toolbox - source note",
+      "title": "<b>Better Regulation Toolbox - source note</b><br>Category: 95 Source-Derived Pages<br>Source: 95 Source-Derived Pages/Better Regulation Toolbox - source note.md<br>Keywords: toolbox, source, downloaded, commission, better, regulation, consolidated, edition<br>Open page: pages/better-regulation-toolbox-source-note.html",
+      "group": "95 Source-Derived Pages",
+      "color": "#6366f1",
+      "source": "95 Source-Derived Pages/Better Regulation Toolbox - source note.md",
+      "url": "pages/better-regulation-toolbox-source-note.html",
+      "value": 26,
+      "degree": 7
+    },
+    {
+      "id": "CBA vs MCE in ex-ante impact assessment - source note",
+      "label": "CBA vs MCE in ex-ante impact assessment - source note",
+      "title": "<b>CBA vs MCE in ex-ante impact assessment - source note</b><br>Category: 95 Source-Derived Pages<br>Source: 95 Source-Derived Pages/CBA vs MCE in ex-ante impact assessment - source note.md<br>Keywords: source, analysis, multi-criteria, evaluation, cba-vs-mce-jrc-2017, ex-ante, impact, assessment<br>Open page: pages/cba-vs-mce-in-ex-ante-impact-assessment-source-note.html",
+      "group": "95 Source-Derived Pages",
+      "color": "#6366f1",
+      "source": "95 Source-Derived Pages/CBA vs MCE in ex-ante impact assessment - source note.md",
+      "url": "pages/cba-vs-mce-in-ex-ante-impact-assessment-source-note.html",
+      "value": 24,
+      "degree": 6
+    },
+    {
+      "id": "SMCE operational issues - source note",
+      "label": "SMCE operational issues - source note",
+      "title": "<b>SMCE operational issues - source note</b><br>Category: 95 Source-Derived Pages<br>Source: 95 Source-Derived Pages/SMCE operational issues - source note.md<br>Keywords: impact, assessment, source, ante, smce, operational, framework, smce-operational-issues-2017<br>Open page: pages/smce-operational-issues-source-note.html",
+      "group": "95 Source-Derived Pages",
+      "color": "#6366f1",
+      "source": "95 Source-Derived Pages/SMCE operational issues - source note.md",
+      "url": "pages/smce-operational-issues-source-note.html",
+      "value": 26,
+      "degree": 7
+    },
+    {
+      "id": "SOCRATES Manual - source note",
+      "label": "SOCRATES Manual - source note",
+      "title": "<b>SOCRATES Manual - source note</b><br>Category: 95 Source-Derived Pages<br>Source: 95 Source-Derived Pages/SOCRATES Manual - source note.md<br>Keywords: socrates, manual, analysis, source, sensitivity, local, socrates-manual-2022, multi-criteria<br>Open page: pages/socrates-manual-source-note.html",
+      "group": "95 Source-Derived Pages",
+      "color": "#6366f1",
+      "source": "95 Source-Derived Pages/SOCRATES Manual - source note.md",
+      "url": "pages/socrates-manual-source-note.html",
+      "value": 28,
+      "degree": 8
+    },
+    {
+      "id": "Uncertainty and sensitivity analysis for policy decision making - source note",
+      "label": "Uncertainty and sensitivity analysis for policy decision making - source note",
+      "title": "<b>Uncertainty and sensitivity analysis for policy decision making - source note</b><br>Category: 95 Source-Derived Pages<br>Source: 95 Source-Derived Pages/Uncertainty and sensitivity analysis for policy decision making - source note.md<br>Keywords: sensitivity, analysis, uncertainty, source, policy, making, local, uncertainty-sensitivity-jrc-2020<br>Open page: pages/uncertainty-and-sensitivity-analysis-for-policy-decision-making-source-note.html",
+      "group": "95 Source-Derived Pages",
+      "color": "#6366f1",
+      "source": "95 Source-Derived Pages/Uncertainty and sensitivity analysis for policy decision making - source note.md",
+      "url": "pages/uncertainty-and-sensitivity-analysis-for-policy-decision-making-source-note.html",
+      "value": 24,
+      "degree": 6
+    },
+    {
       "id": "SMCE Wiki Home",
       "label": "SMCE Wiki Home",
-      "title": "<b>SMCE Wiki Home</b><br>Category: root<br>Source: SMCE Wiki Home.md<br>Keywords: impact, assessment, analysis, newly, added, policy, stakeholder, smce<br>Open page: pages/smce-wiki-home.html",
+      "title": "<b>SMCE Wiki Home</b><br>Category: root<br>Source: SMCE Wiki Home.md<br>Keywords: impact, assessment, analysis, policy, smce, better, regulation, newly<br>Open page: pages/smce-wiki-home.html",
       "group": "root",
       "color": "#a78bfa",
       "source": "SMCE Wiki Home.md",
       "url": "pages/smce-wiki-home.html",
-      "value": 180,
-      "degree": 84
+      "value": 182,
+      "degree": 85
     }
   ],
   "edges": [
@@ -1333,6 +1411,20 @@
     },
     {
       "source": "Master bibliography",
+      "target": "Catalogue - downloaded SMCE and Better Regulation library",
+      "value": 4,
+      "weight": 3,
+      "title": "Shared wikilink connection weight: 3<br>Seen from: Catalogue - downloaded SMCE and Better Regulation library, Master bibliography"
+    },
+    {
+      "source": "Master bibliography",
+      "target": "Source ingestion index",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Master bibliography"
+    },
+    {
+      "source": "Master bibliography",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -1561,6 +1653,83 @@
       "value": 2,
       "weight": 1,
       "title": "Shared wikilink connection weight: 1<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "SOCRATES",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "SOCRATES Manual - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "SMCE",
+      "value": 4,
+      "weight": 3,
+      "title": "Shared wikilink connection weight: 3<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "SMCE operational issues - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "CBA vs MCE in ex-ante impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "20 years of SMCE in policy assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "Better Regulation Guidelines and Toolbox",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "Better Regulation Toolbox - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "Sensitivity and robustness analysis",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "Uncertainty and sensitivity analysis for policy decision making - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Source ingestion index"
+    },
+    {
+      "source": "Source ingestion index",
+      "target": "Catalogue - downloaded SMCE and Better Regulation library",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Catalogue - downloaded SMCE and Better Regulation library"
     },
     {
       "source": "Source ingestion index",
@@ -1815,6 +1984,55 @@
       "title": "Shared wikilink connection weight: 1<br>Seen from: SMCE Wiki Home"
     },
     {
+      "source": "Catalogue - downloaded SMCE and Better Regulation library",
+      "target": "SMCE",
+      "value": 5,
+      "weight": 4,
+      "title": "Shared wikilink connection weight: 4<br>Seen from: Catalogue - downloaded SMCE and Better Regulation library"
+    },
+    {
+      "source": "Catalogue - downloaded SMCE and Better Regulation library",
+      "target": "Catalogue - official EU and JRC sources",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Catalogue - downloaded SMCE and Better Regulation library"
+    },
+    {
+      "source": "Catalogue - downloaded SMCE and Better Regulation library",
+      "target": "SOCRATES",
+      "value": 4,
+      "weight": 3,
+      "title": "Shared wikilink connection weight: 3<br>Seen from: Catalogue - downloaded SMCE and Better Regulation library"
+    },
+    {
+      "source": "Catalogue - downloaded SMCE and Better Regulation library",
+      "target": "Better Regulation Guidelines and Toolbox",
+      "value": 4,
+      "weight": 3,
+      "title": "Shared wikilink connection weight: 3<br>Seen from: Catalogue - downloaded SMCE and Better Regulation library"
+    },
+    {
+      "source": "Catalogue - downloaded SMCE and Better Regulation library",
+      "target": "EC impact assessment",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Catalogue - downloaded SMCE and Better Regulation library"
+    },
+    {
+      "source": "Catalogue - downloaded SMCE and Better Regulation library",
+      "target": "Sensitivity and robustness analysis",
+      "value": 5,
+      "weight": 4,
+      "title": "Shared wikilink connection weight: 4<br>Seen from: Catalogue - downloaded SMCE and Better Regulation library, Sensitivity and robustness analysis"
+    },
+    {
+      "source": "Catalogue - downloaded SMCE and Better Regulation library",
+      "target": "SMCE Wiki Home",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: SMCE Wiki Home"
+    },
+    {
       "source": "Catalogue - official EU and JRC sources",
       "target": "SMCE",
       "value": 2,
@@ -1932,6 +2150,13 @@
       "value": 2,
       "weight": 1,
       "title": "Shared wikilink connection weight: 1<br>Seen from: Better Regulation Guidelines and Toolbox"
+    },
+    {
+      "source": "Better Regulation Guidelines and Toolbox",
+      "target": "Better Regulation Toolbox - source note",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Better Regulation Guidelines and Toolbox, Better Regulation Toolbox - source note"
     },
     {
       "source": "Better Regulation Guidelines and Toolbox",
@@ -2068,6 +2293,13 @@
     },
     {
       "source": "Better Regulation Guidelines and Toolbox",
+      "target": "SOCRATES Manual - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SOCRATES Manual - source note"
+    },
+    {
+      "source": "Better Regulation Guidelines and Toolbox",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -2184,6 +2416,13 @@
       "value": 2,
       "weight": 1,
       "title": "Shared wikilink connection weight: 1<br>Seen from: Impact Assessment"
+    },
+    {
+      "source": "Better Regulation",
+      "target": "CBA vs MCE in ex-ante impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: CBA vs MCE in ex-ante impact assessment - source note"
     },
     {
       "source": "Better Regulation",
@@ -2516,6 +2755,13 @@
     },
     {
       "source": "Regulatory Scrutiny Board",
+      "target": "Better Regulation Toolbox - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Better Regulation Toolbox - source note"
+    },
+    {
+      "source": "Regulatory Scrutiny Board",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -2548,6 +2794,27 @@
       "value": 3,
       "weight": 2,
       "title": "Shared wikilink connection weight: 2<br>Seen from: SMCE, Sensitivity and robustness analysis"
+    },
+    {
+      "source": "SMCE",
+      "target": "SMCE operational issues - source note",
+      "value": 4,
+      "weight": 3,
+      "title": "Shared wikilink connection weight: 3<br>Seen from: SMCE, SMCE operational issues - source note"
+    },
+    {
+      "source": "SMCE",
+      "target": "CBA vs MCE in ex-ante impact assessment - source note",
+      "value": 4,
+      "weight": 3,
+      "title": "Shared wikilink connection weight: 3<br>Seen from: CBA vs MCE in ex-ante impact assessment - source note, SMCE"
+    },
+    {
+      "source": "SMCE",
+      "target": "20 years of SMCE in policy assessment - source note",
+      "value": 4,
+      "weight": 3,
+      "title": "Shared wikilink connection weight: 3<br>Seen from: 20 years of SMCE in policy assessment - source note, SMCE"
     },
     {
       "source": "SMCE",
@@ -2817,6 +3084,20 @@
     },
     {
       "source": "SMCE",
+      "target": "SOCRATES Manual - source note",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: SOCRATES Manual - source note"
+    },
+    {
+      "source": "SMCE",
+      "target": "Uncertainty and sensitivity analysis for policy decision making - source note",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Uncertainty and sensitivity analysis for policy decision making - source note"
+    },
+    {
+      "source": "SMCE",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -2859,6 +3140,13 @@
     },
     {
       "source": "SOCRATES",
+      "target": "SOCRATES Manual - source note",
+      "value": 4,
+      "weight": 3,
+      "title": "Shared wikilink connection weight: 3<br>Seen from: SOCRATES, SOCRATES Manual - source note"
+    },
+    {
+      "source": "SOCRATES",
       "target": "Objectives hierarchy",
       "value": 2,
       "weight": 1,
@@ -2877,6 +3165,20 @@
       "value": 3,
       "weight": 2,
       "title": "Shared wikilink connection weight: 2<br>Seen from: SOCRATES Manual"
+    },
+    {
+      "source": "SOCRATES",
+      "target": "20 years of SMCE in policy assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: 20 years of SMCE in policy assessment - source note"
+    },
+    {
+      "source": "SOCRATES",
+      "target": "Uncertainty and sensitivity analysis for policy decision making - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Uncertainty and sensitivity analysis for policy decision making - source note"
     },
     {
       "source": "SOCRATES",
@@ -3108,6 +3410,27 @@
       "value": 2,
       "weight": 1,
       "title": "Shared wikilink connection weight: 1<br>Seen from: Equity Impact Matrix"
+    },
+    {
+      "source": "Assessment structure and multi-criteria impact matrix",
+      "target": "20 years of SMCE in policy assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: 20 years of SMCE in policy assessment - source note"
+    },
+    {
+      "source": "Assessment structure and multi-criteria impact matrix",
+      "target": "SMCE operational issues - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SMCE operational issues - source note"
+    },
+    {
+      "source": "Assessment structure and multi-criteria impact matrix",
+      "target": "SOCRATES Manual - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SOCRATES Manual - source note"
     },
     {
       "source": "Assessment structure and multi-criteria impact matrix",
@@ -3412,6 +3735,13 @@
     },
     {
       "source": "Criteria design",
+      "target": "SMCE operational issues - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SMCE operational issues - source note"
+    },
+    {
+      "source": "Criteria design",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -3668,6 +3998,27 @@
       "value": 2,
       "weight": 1,
       "title": "Shared wikilink connection weight: 1<br>Seen from: Social Multi-Criteria Evaluation (SMCE)"
+    },
+    {
+      "source": "Equity analysis",
+      "target": "20 years of SMCE in policy assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: 20 years of SMCE in policy assessment - source note"
+    },
+    {
+      "source": "Equity analysis",
+      "target": "CBA vs MCE in ex-ante impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: CBA vs MCE in ex-ante impact assessment - source note"
+    },
+    {
+      "source": "Equity analysis",
+      "target": "SOCRATES Manual - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SOCRATES Manual - source note"
     },
     {
       "source": "Equity analysis",
@@ -4252,6 +4603,13 @@
     },
     {
       "source": "Scenario analysis",
+      "target": "Uncertainty and sensitivity analysis for policy decision making - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Uncertainty and sensitivity analysis for policy decision making - source note"
+    },
+    {
+      "source": "Scenario analysis",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -4298,6 +4656,13 @@
       "value": 2,
       "weight": 1,
       "title": "Shared wikilink connection weight: 1<br>Seen from: SMCE Wiki Home"
+    },
+    {
+      "source": "Sensitivity and robustness analysis",
+      "target": "Uncertainty and sensitivity analysis for policy decision making - source note",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: Sensitivity and robustness analysis, Uncertainty and sensitivity analysis for policy decision making - source note"
     },
     {
       "source": "Sensitivity and robustness analysis",
@@ -4427,6 +4792,20 @@
     },
     {
       "source": "Sensitivity and robustness analysis",
+      "target": "20 years of SMCE in policy assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: 20 years of SMCE in policy assessment - source note"
+    },
+    {
+      "source": "Sensitivity and robustness analysis",
+      "target": "SOCRATES Manual - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SOCRATES Manual - source note"
+    },
+    {
+      "source": "Sensitivity and robustness analysis",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -4539,6 +4918,13 @@
     },
     {
       "source": "Trade-offs and compensation",
+      "target": "CBA vs MCE in ex-ante impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: CBA vs MCE in ex-ante impact assessment - source note"
+    },
+    {
+      "source": "Trade-offs and compensation",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -4630,6 +5016,13 @@
     },
     {
       "source": "Uncertainty register",
+      "target": "Uncertainty and sensitivity analysis for policy decision making - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Uncertainty and sensitivity analysis for policy decision making - source note"
+    },
+    {
+      "source": "Uncertainty register",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -4662,6 +5055,13 @@
       "value": 2,
       "weight": 1,
       "title": "Shared wikilink connection weight: 1<br>Seen from: Sensitivity Analysis"
+    },
+    {
+      "source": "Weight elicitation",
+      "target": "SMCE operational issues - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SMCE operational issues - source note"
     },
     {
       "source": "Weight elicitation",
@@ -4812,6 +5212,27 @@
     },
     {
       "source": "EC impact assessment",
+      "target": "Better Regulation Toolbox - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Better Regulation Toolbox - source note"
+    },
+    {
+      "source": "EC impact assessment",
+      "target": "SMCE operational issues - source note",
+      "value": 3,
+      "weight": 2,
+      "title": "Shared wikilink connection weight: 2<br>Seen from: SMCE operational issues - source note"
+    },
+    {
+      "source": "EC impact assessment",
+      "target": "SOCRATES Manual - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SOCRATES Manual - source note"
+    },
+    {
+      "source": "EC impact assessment",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -4959,6 +5380,13 @@
     },
     {
       "source": "Monitoring and evaluation indicators",
+      "target": "Better Regulation Toolbox - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Better Regulation Toolbox - source note"
+    },
+    {
+      "source": "Monitoring and evaluation indicators",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -5012,6 +5440,20 @@
       "value": 3,
       "weight": 2,
       "title": "Shared wikilink connection weight: 2<br>Seen from: Territorial distribution analysis"
+    },
+    {
+      "source": "Option design",
+      "target": "Better Regulation Toolbox - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Better Regulation Toolbox - source note"
+    },
+    {
+      "source": "Option design",
+      "target": "SMCE operational issues - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: SMCE operational issues - source note"
     },
     {
       "source": "Option design",
@@ -5127,6 +5569,13 @@
     },
     {
       "source": "Problem definition",
+      "target": "Better Regulation Toolbox - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: Better Regulation Toolbox - source note"
+    },
+    {
+      "source": "Problem definition",
       "target": "SMCE Wiki Home",
       "value": 2,
       "weight": 1,
@@ -5194,6 +5643,13 @@
       "value": 5,
       "weight": 4,
       "title": "Shared wikilink connection weight: 4<br>Seen from: Territorial distribution analysis"
+    },
+    {
+      "source": "Distributional effects",
+      "target": "CBA vs MCE in ex-ante impact assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: CBA vs MCE in ex-ante impact assessment - source note"
     },
     {
       "source": "Distributional effects",
@@ -5313,6 +5769,13 @@
       "value": 4,
       "weight": 3,
       "title": "Shared wikilink connection weight: 3<br>Seen from: Stakeholder typology"
+    },
+    {
+      "source": "Stakeholder mapping",
+      "target": "20 years of SMCE in policy assessment - source note",
+      "value": 2,
+      "weight": 1,
+      "title": "Shared wikilink connection weight: 1<br>Seen from: 20 years of SMCE in policy assessment - source note"
     },
     {
       "source": "Stakeholder mapping",
